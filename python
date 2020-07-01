@@ -1,0 +1,9 @@
+from selenium import webdriver
+driver = webdriver.Chrome("C:\Program Files (x86)\seneliumdriver\\chromedriver.exe")
+#id
+#driver.get("https://www.hotstar.com")
+#driver.find_element_by_id("searchField").send_keys("Movies")
+#name
+#driver.get("https://www.google.com")
+#driver.find_element_by_name("q").send_keys("Selenium")
+#driver.find_element_by_name("btnK").click()
